@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thurs-new-repo/precache-manifest.03dbe5621b0b3d7a5769bdb45f31652d.js"
+  "/thurs-new-repo/precache-manifest.71d0e54feb07287fd6bdb77ecf52b791.js"
 );
 
 self.addEventListener('message', (event) => {

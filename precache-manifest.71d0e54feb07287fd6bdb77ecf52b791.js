@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd6ff2ed311c18f646a97087733aab53",
+    "revision": "391b80b81e6c199d8c5eb2abf3191149",
     "url": "/thurs-new-repo/index.html"
   },
   {
-    "revision": "bca4ff46d927b1f05627",
+    "revision": "188e613632cef8c5e7c7",
     "url": "/thurs-new-repo/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thurs-new-repo/static/js/2.d23d257d.chunk.js"
   },
   {
-    "revision": "bca4ff46d927b1f05627",
-    "url": "/thurs-new-repo/static/js/main.288e6c2a.chunk.js"
+    "revision": "188e613632cef8c5e7c7",
+    "url": "/thurs-new-repo/static/js/main.8b0d2ed8.chunk.js"
   },
   {
     "revision": "ba4fffbea790a877768e",
