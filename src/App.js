@@ -12,6 +12,8 @@ function App() {
         </p>
 
         <p>One more testing and getting ready to deploy my app.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis pellentesque lacus eleifend lacinia</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -20,8 +22,16 @@ function App() {
         >
           Learn React
         </a>
+
+
       </header>
     </div>
+
+
+            
+      
+
+
   );
 }
 
